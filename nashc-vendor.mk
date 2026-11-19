@@ -449,8 +449,6 @@ PRODUCT_PACKAGES += \
     libvpud_vcodec \
     libaudiopreprocessing_mtk \
     vendor.mediatek.hardware.audio@7.1 \
-    vendor.mediatek.hardware.bluetooth.audio@2.1 \
-    vendor.mediatek.hardware.bluetooth.audio@2.2 \
     vendor.mediatek.hardware.rcs@2.0 \
     APUWareUtilsServer \
     arm.graphics-V1-ndk_platform \
@@ -999,7 +997,7 @@ PRODUCT_PACKAGES += \
     libfeature_rss \
     libfeatureiodrv_mem \
     libforkexecwrap \
-    libformatter \
+    libformatter_vendor \
     libgamehdr \
     libged \
     libgpu_aux \
@@ -1028,7 +1026,7 @@ PRODUCT_PACKAGES += \
     libmipc \
     libmml \
     libmnetlink_v104 \
-    libmnl \
+    libmnl_mtk \
     libmp3dec_mtk \
     libmsnr \
     libmtcloader \
@@ -1185,9 +1183,6 @@ PRODUCT_PACKAGES += \
     vendor.mediatek.hardware.mms@1.4 \
     vendor.mediatek.hardware.mms@1.5 \
     vendor.mediatek.hardware.mms@1.6 \
-    vendor.mediatek.hardware.mtkradioex@2.0 \
-    vendor.mediatek.hardware.mtkradioex@3.0 \
-    vendor.mediatek.hardware.netdagent@1.0 \
     vendor.mediatek.hardware.power@2.0 \
     vendor.mediatek.hardware.pq@2.0 \
     vendor.mediatek.hardware.pq@2.1 \
@@ -1245,7 +1240,7 @@ PRODUCT_PACKAGES += \
     libosensehalclient \
     vendor.oplus.hardware.appradio@1.0 \
     vendor.oplus.hardware.charger@1.0 \
-    vendor.oplus.hardware.commondcs@1.0 \
+    vendor.oplus.hardware.commondcs@1.0_odm \
     vendor.oplus.hardware.engcamera@1.0 \
     vendor.oplus.hardware.oplusSensor@1.0 \
     vendor.oplus.hardware.orms@1.0 \
