@@ -1252,7 +1252,6 @@ PRODUCT_PACKAGES += \
     mediatek-ims-common \
     mediatek-ims-extension-plugin \
     android.hardware.neuralnetworks@1.3-service-mtk-dsp-gpu.xml \
-    gnss-mtk.xml \
     gnss@2.1-service.xml \
     manifest_android.hardware.drm@1.4-service.widevine.xml \
     manifest_media_c2_V1_1_default.xml \
